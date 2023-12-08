@@ -1,77 +1,28 @@
-# Awesome-Multimodal-Large-Language-Models
+# Awesome-Vision-Language-Models
 
 <img src="./images/xmind.png" width="96%" height="96%">
 
-## Our MLLM works
+## Our works
 
-🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
-**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)**
+🔥🔥🔥 **Survey**  
+**[Project Page]** | **[Paper]**
 
-A curated list of Multimodal Large Language Models (MLLMs), including multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, datasets, and others. This list will be updated in real time. :sparkles:
-
-Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2:
 
 ---
 
-🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
-**[Project Page [Leaderboards]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)** | **[Paper](https://arxiv.org/pdf/2306.13394.pdf)**
-
-Leaderboards of **37** advanced MLLMs, including [**BLIP-2**](https://arxiv.org/pdf/2301.12597.pdf), [**InstructBLIP**](https://arxiv.org/pdf/2305.06500.pdf), [**LLaVA**](https://arxiv.org/pdf/2304.08485.pdf), [**MiniGPT-4**](https://arxiv.org/pdf/2304.10592.pdf), [**mPLUG-Owl**](https://arxiv.org/pdf/2304.14178.pdf), [**LLaMA-Adapter V2**](https://arxiv.org/pdf/2304.15010.pdf), [**ImageBind_LLM**](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main), [**Otter**](https://arxiv.org/pdf/2305.03726.pdf), [**VisualGLM-6B**](https://github.com/THUDM/VisualGLM-6B), [**Multimodal-GPT**](https://arxiv.org/pdf/2305.04790.pdf), [**PandaGPT**](https://arxiv.org/pdf/2305.16355.pdf), [**VPGTrans**](https://arxiv.org/pdf/2305.01278.pdf), [**LaVIN**](https://arxiv.org/pdf/2305.15023.pdf), [**Lynx**](https://arxiv.org/pdf/2307.02469.pdf), [**Octopus**](https://github.com/gray311/UnifiedMultimodalInstructionTuning), [**LRV-Instruction**](https://arxiv.org/pdf/2306.14565.pdf), [**Cheetor**](https://arxiv.org/pdf/2308.04152.pdf), [**MMICL**](https://github.com/HaozheZhao/MIC), [**GIT2**](https://arxiv.org/pdf/2205.14100.pdf), [**BLIVA**](https://arxiv.org/pdf/2308.09936.pdf), [**Skywork-MM**](https://github.com/will-singularity/Skywork-MM/tree/main), [**Qwen-VL-Chat**](https://arxiv.org/pdf/2308.12966.pdf), [**InternLM-XComposer-VL**](https://arxiv.org/pdf/2309.15112.pdf), [**Lion**](https://github.com/mynameischaos/Lion), [**Muffin**](https://github.com/thunlp/Muffin), [**WeMM**](https://github.com/scenarios/WeMM), [**SPHINX**](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX), [**InfMLLM**](https://github.com/mightyzau/InfMLLM), [**mPLUG-Owl2**](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2), [**GPT-4V**](https://cdn.openai.com/papers/GPTV_System_Card.pdf), [**CVLM**](https://github.com/buptlihang/CVLM), [**LVIS-INSTRUCT4V**](https://arxiv.org/pdf/2311.07574.pdf), [**Kanva**](https://github.com/llp1992/Kanva), [**DataOptim**](https://github.com/BAAI-DCAI/DataOptim), [**ShareGPT4V**](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V), [**BELLE-VL**](https://huggingface.co/BELLE-2/BELLE-VL), and [**TransCore-M**](https://github.com/PCIResearch/TransCore-M).
-
-If you want to add your model in our leaderboards, please feel free to email bradyfu24@gmail.com. We will update the leaderboards in time. :sparkles:
-
-<details><summary>Download MME :star2::star2: </summary>
-
-The benchmark dataset is collected by Xiamen University for academic research only. You can email guilinli@stu.xmu.edu.cn to obtain the dataset, according to the following requirement. 
-
-**Requirement**: A real-name system is encouraged for better academic communication. Your email suffix needs to match your affiliation, such as xx@stu.xmu.edu.cn and Xiamen University. Otherwise, you need to explain why. Please include the information bellow when sending your application email.
-
-```
-Name: (tell us who you are.)
-Affiliation: (the name/url of your university or company)
-Job Title: (e.g., professor, PhD, and researcher)
-Email: (your email address)
-How to use: (only for non-commercial use)
-```
+🔥🔥🔥 **Work2**  
+**[Project Page]** | **[Paper]**
 
 </details>
 
 ---
 
-🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models** 
 
-<p align="center">
-    <img src="./images/woodpecker_icon.png" width="28%" height="28%">
-</p>
 
-**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Online Demo](https://f252626b321420bfb1.gradio.live/)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
-
-This is the first work to correct hallucinations in MLLMs.
-
----
 
 <br> **📑 If you find our projects helpful to your research, please consider citing:** <br>
 ```
-@article{yin2023survey,
-  title={A Survey on Multimodal Large Language Models},
-  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
-  journal={arXiv preprint arXiv:2306.13549},
-  year={2023}
-}
 
-@article{fu2023mme,
-  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
-  author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Qiu, Zhenyu and Lin, Wei and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and Ji, Rongrong},
-  journal={arXiv preprint arXiv:2306.13394},
-  year={2023}
-}
-
-@article{yin2023woodpecker,
-  title={Woodpecker: Hallucination Correction for Multimodal Large Language Models},
-  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Xu, Tong and Wang, Hao and Sui, Dianbo and Shen, Yunhang and Li, Ke and Sun, Xing and Chen, Enhong},
-  journal={arXiv preprint arXiv:2310.16045},
-  year={2023}
-}
 ```
 
 
