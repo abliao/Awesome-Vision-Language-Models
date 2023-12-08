@@ -61,7 +61,7 @@ Last update on 2023/12/03
 #### VLM Knowledge Distillation for Other Vision Tasks
 * [arXiv 2023] Controlling Vision-Language Models for Universal Image Restoration [[Paper](https://arxiv.org/abs/2310.01018)][[Code](https://github.com/Algolzw/daclip-uir)]
 * 
-## Menu
+## Awesome Papers
 - [Datasets](#datasets)
   - [Datasets for VLM Pre-training](#datasets-for-vlm-pre-training)
   - [Datasets for VLM Evaluation](#datasets-for-vlm-evaluation)
