@@ -22,7 +22,11 @@
 
 
 ## 基础知识
-
+| Paper                                             |  Project WebSite | Code |                                  
+|---------------------------------------------------|:-------------:|:------------:|
+|[**Vision-Language Models for Vision Tasks: A Survey**](https://arxiv.org/pdf/2304.00685.pdf)|-|[Code](https://github.com/jingyi0000/VLM_survey)|
+|[**A Survey on Multimodal Large Language Models**](https://arxiv.org/pdf/2306.13549.pdf)|-|[Code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)|
+|[**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**](https://arxiv.org/abs/2309.10020)|[Project Page](https://vlp-tutorial.github.io/2023/)|-|
 ### 模型构建框架
 
 | Paper                                             |  Project WebSite | Code |                                  
