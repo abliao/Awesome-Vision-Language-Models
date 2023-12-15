@@ -1,6 +1,7 @@
 # Awesome-Vision-Language-Models
 
 ## Papers
+- [Introduction][#Introduction]
 - [基础知识](#基础知识)
   - [模型构建框架](#模型构建框架)
 - [Tasks](#tasks)
@@ -20,8 +21,10 @@
   - [具身智能](#embodied-ai)
   - [AI Agent](#ai-agent)
 
+## Introduction
+  介绍survey的必要性，和之前的survey的不同，强调应用介绍的重要性
 
-## 基础知识
+## 基础知识 / Method
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
 |[**Vision-Language Models for Vision Tasks: A Survey**](https://arxiv.org/pdf/2304.00685.pdf)|-|[Code](https://github.com/jingyi0000/VLM_survey)|
