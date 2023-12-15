@@ -1,7 +1,7 @@
 # Awesome-Vision-Language-Models
 
 ## Papers
-- [Introduction][#Introduction]
+- [Introduction](#Introduction)
 - [基础知识](#基础知识)
   - [模型构建框架](#模型构建框架)
 - [Tasks](#tasks)
