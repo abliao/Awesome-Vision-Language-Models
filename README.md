@@ -2,6 +2,7 @@
 
 ## Papers
 - [Introduction](#Introduction)
+  介绍survey的必要性，和之前的survey的不同，强调应用介绍的重要性
 - [Method](#Method)
   - Multimodal Instruction Tuning
   - Multimodal In-Context Learning
