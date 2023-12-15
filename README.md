@@ -1,28 +1,6 @@
 # Awesome-Vision-Language-Models
 
 ## Papers
-- [Introduction](#Introduction)
-  介绍survey的必要性，和之前的survey的不同，强调应用介绍的重要性
-- [Method](#Method)
-  简要介绍
-  - Multimodal Instruction Tuning
-  - Multimodal In-Context Learning
-  - Multimodal Chain of Thought
-  - LLM-Aided Visual Reasoning
-- [Tasks](#tasks)
-  - [检测](#检测)
-  - [分割](#分割)
-  - [VQA](#vqa)
-  - [生成](#生成)
-  - [视频](#视频)
-- [Application](#application)
-  - [医疗](#医疗)
-  - [文档大模型](#文档大模型)
-  - [对话助手](#对话助手)
-  - [自动驾驶](#自动驾驶)
-  - [具身智能](#embodied-ai)
-  - [AI Agent](#ai-agent)
-
 
 - [Introduction](#Introduction)
 - [基础知识](#基础知识)
