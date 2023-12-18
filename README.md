@@ -72,30 +72,23 @@
 ### 医疗
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
-|-|-|-|
+|[**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**](https://arxiv.org/pdf/2305.10415.pdf)||[Code](https://github.com/xiaoman-zhang/PMC-VQA)|
+|[**Med-Flamingo: a Multimodal Medical Few-shot Learner**](https://arxiv.org/abs/2307.15189)||[Code](https://github.com/snap-stanford/med-flamingo)|
+|[**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks**](https://arxiv.org/abs/2305.17100)||[Code](https://github.com/taokz/BiomedGPT/tree/main)|
 
 ### 文档大模型
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
-|-|-|-|
-
-### 对话助手
-| Paper                                             |  Project WebSite | Code |
-|---------------------------------------------------|:-------------:|:------------:|
-|-|-|-|
+|[**LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking**](https://arxiv.org/abs/2204.08387)|||
+|[**ERNIE-Layout: Layout Knowledge Enhanced Pre-training for Visually-rich Document Understanding**](https://arxiv.org/abs/2210.06155)||[Code](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/ernie-layout)|
+|[**GeoLayoutLM: Geometric Pre-training for Visual Information Extraction**](https://arxiv.org/abs/2304.10759)||[Code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/GeoLayoutLM)|
 
 ### 自动驾驶
-| Paper | Project WebSite | Code |
-| ----- | :-------------: | :--: |
-| -     |        -        |  -   |
-|       |                 |      |
-|       |                 |      |
-|       |                 |      |
-|       |                 |      |
-|       |                 |      |
-|       |                 |      |
-|       |                 |      |
-|       |                 |      |
+| Paper                                                        |                 Project WebSite                 |                        Code                         |
+| ------------------------------------------------------------ | :---------------------------------------------: | :-------------------------------------------------: |
+| [**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**](https://arxiv.org/pdf/2309.09777.pdf) | [Project Page](https://drivedreamer.github.io/) | [Code](https://github.com/JeffWang987/DriveDreamer) |
+| [**GAIA-1: A Generative World Model for Autonomous Driving**](https://arxiv.org/abs/2309.17080) |                                                 |                                                     |
+| [**Dolphins: Multimodal Language Model for Driving**](https://arxiv.org/abs/2312.00438) |  [Project Page](https://vlm-driver.github.io/)  |   [Code](https://github.com/vlm-driver/Dolphins)    |
 
 ### Embodied AI
 
