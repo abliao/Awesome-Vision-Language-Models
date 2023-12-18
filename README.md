@@ -1,5 +1,45 @@
 # Awesome-Vision-Language-Models
 
+## Frame
+
+# Tasks
+
+- 基础知识
+
+  - 预训练方法
+
+    - 对比学习
+    - 生成学习
+
+  - 多模态融合
+
+    视觉语言怎么统一。根据应用的需求，输入和输出会拥有更多模态，怎么统一多模态输入和输出。
+
+  - 多模态大模型（LMM）
+
+    受LLM启发，多模态大模型的研究也有了飞速进展
+
+    - 指令微调
+    - 上下文学习
+    - 思维链推理
+
+- Tasks
+
+  - ？VQA
+  - 检测（hjh）
+  - 分割（hjh）
+  - ？生成
+  - 视频
+
+- 应用
+
+  - 医疗
+  - *文档大模型*(huawei)
+  - 手机终端
+  - 自动驾驶(huawei)
+  - Embodied AI(zkd)
+  - AI Agent(zkd)
+
 ## Papers
 
 - [Introduction](#Introduction)
