@@ -133,4 +133,6 @@
 ### AI Agent
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
-|-|-|-|
+|[**MM-REACT**](https://arxiv.org/abs/2303.11381)|[Project Page](https://multimodal-react.github.io/)|[Code](https://github.com/microsoft/MM-REACT)|
+|[**Visual ChatGPT**](https://arxiv.org/abs/2303.04671)||[Code](https://github.com/moymix/TaskMatrix)|
+|[**CogAgent**](https://arxiv.org/abs/2312.08914)||[Code](https://github.com/THUDM/CogVLM)|
