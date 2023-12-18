@@ -26,6 +26,7 @@
 - Tasks
 
   - ？VQA
+  - 分类（hrh）
   - 检测（hjh）
   - 分割（hjh）
   - ？生成
@@ -34,11 +35,11 @@
 - 应用
 
   - 医疗
-  - *文档大模型*(huawei)
+  - *文档大模型*（huawei）
   - 手机终端
-  - 自动驾驶(huawei)
-  - Embodied AI(zkd)
-  - AI Agent(zkd)
+  - 自动驾驶（huawei）
+  - Embodied AI（zkd）
+  - AI Agent（zkd）
 
 ## Papers
 
