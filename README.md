@@ -89,6 +89,7 @@
 | [**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**](https://arxiv.org/pdf/2309.09777.pdf) | [Project Page](https://drivedreamer.github.io/) | [Code](https://github.com/JeffWang987/DriveDreamer) |
 | [**GAIA-1: A Generative World Model for Autonomous Driving**](https://arxiv.org/abs/2309.17080) |                                                 |                                                     |
 | [**Dolphins: Multimodal Language Model for Driving**](https://arxiv.org/abs/2312.00438) |  [Project Page](https://vlm-driver.github.io/)  |   [Code](https://github.com/vlm-driver/Dolphins)    |
+| [**Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**](https://arxiv.org/abs/2310.14414) |                                                 |                                                     |
 
 ### Embodied AI
 
