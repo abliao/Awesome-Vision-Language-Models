@@ -1,8 +1,6 @@
 # Awesome-Vision-Language-Models
 
-## Frame
-
-# Tasks
+## Framework
 
 - 基础知识
 
