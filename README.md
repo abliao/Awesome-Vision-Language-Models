@@ -143,6 +143,41 @@
 
 ### Embodied AI
 
+#### 规划
+
+| Paper                                                        |                      Project WebSite                       |                             Code                             |
+| ------------------------------------------------------------ | :--------------------------------------------------------: | :----------------------------------------------------------: |
+| [**LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**](https://arxiv.org/abs/2207.04429) |    [Project Page](https://sites.google.com/view/lmnav)     |       [Code](https://github.com/blazejosinski/lm_nav)        |
+| [**LLM as A Robotic Brain: Unifying Egocentric Memory and Control**](https://arxiv.org/abs/2304.09349) |                                                            |                                                              |
+| [**CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation**](https://arxiv.org/abs/2203.10421) |                                                            |                                                              |
+| [**PaLM-E: An Embodied Multimodal Language Model**](https://palm-e.github.io/assets/palm-e.pdf) |         [Project Page](https://palm-e.github.io/)          |                                                              |
+| [**Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**](https://say-can.github.io/assets/palm_saycan.pdf) |         [Project Page](https://say-can.github.io/)         | [Code](https://github.com/google-research/google-research/tree/master/saycan) |
+| [**Video Language Planning**](https://arxiv.org/abs/2310.10625) | [Project Page](https://video-language-planning.github.io/) | [Code](https://github.com/video-language-planning/vlp_code)  |
+
+#### 执行
+
+| Paper                                                        | Project WebSite                                          | Code                                                         |
+| ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
+| [**VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**](https://arxiv.org/abs/2307.05973) | [Project Page](https://voxposer.github.io/)              | [Code](https://github.com/huangwl18/VoxPoser)                |
+| [**Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**](https://arxiv.org/abs/2309.10150) | [Project Page](https://qtransformer.github.io/)          |                                                              |
+| [**RoboAgent: Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking**](https://robopen.github.io/media/roboagent.pdf) | [Project Page](https://robopen.github.io/)               | [Code](https://github.com/robopen/roboagent/)                |
+| [**RT-1: Robotics Transformer for Real-World Control at Scale**](https://arxiv.org/abs/2212.06817) | [Project Page](https://robotics-transformer1.github.io/) | [Code](https://github.com/google-research/robotics_transformer) |
+| [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://arxiv.org/abs/2307.15818) | [Project Page](https://robotics-transformer.github.io/)  |                                                              |
+| [**Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**](https://arxiv.org/abs/2303.18240) | [Project Page](https://eai-vc.github.io/)                | [Code](https://github.com/facebookresearch/eai-vc)           |
+| [**On Pre-Training for Visuo-Motor Control: Revisiting a Learning-from-Scratch Baseline**](https://arxiv.org/abs/2212.05749) |                                                          | [Code](https://github.com/gemcollector/learning-from-scratch) |
+| [**Open-World Object Manipulation using Pre-trained Vision-Language Models**](https://arxiv.org/abs/2303.00905) | [Prject Page](https://robot-moo.github.io/)              |                                                              |
+| [**Large Language Models as Generalizable Policies for Embodied Tasks**](https://arxiv.org/abs/2310.17722) | [Project Page](https://llm-rl.github.io/)                |                                                              |
+
+#### Generalist Model
+
+| Paper                                                        | Project WebSite                                              | Code                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [**An Embodied Generalist Agent in 3D World**](https://arxiv.org/abs/2311.12871) | [Project Page](https://embodied-generalist.github.io/)       | [Code](https://github.com/embodied-generalist/embodied-generalist) |
+| [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/abs/2307.12981) | [Project Page](https://vis-www.cs.umass.edu/3dllm/)          | [Code](https://github.com/UMass-Foundation-Model/3D-LLM)     |
+| [**A Generalist Agent**](https://arxiv.org/abs/2205.06175)   | [Project Page](https://deepmind.google/discover/blog/a-generalist-agent/) |                                                              |
+| [**PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**](https://arxiv.org/abs/2209.11133) | [Project Page](https://www.microsoft.com/en-us/research/?post_type=msr-blog-post&p=868116) | [Code](https://github.com/microsoft/PACT)                    |
+| [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://arxiv.org/abs/2305.15021) | [Project Page](https://embodiedgpt.github.io/)               | [Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)   |
+
 #### Benchmark
 
 | Paper                                             |  Project WebSite | Code |
@@ -168,6 +203,7 @@
 |[**Interactive Language: Talking to Robots in Real Time**](https://arxiv.org/abs/2210.06407)|[Project Page](https://interactive-language.github.io/)|[Code](https://github.com/google-research/language-table)|
 
 ### AI Agent
+
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
 |[**MM-REACT**](https://arxiv.org/abs/2303.11381)|[Project Page](https://multimodal-react.github.io/)|[Code](https://github.com/microsoft/MM-REACT)|
