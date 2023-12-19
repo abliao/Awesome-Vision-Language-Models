@@ -8,6 +8,7 @@
 
     - 对比学习
     - 生成学习
+    - 对比和生成混合
 
   - 多模态融合
 
@@ -57,9 +58,14 @@
   - [指令优化](#指令优化)
 - [Application](#application)
   - [医疗](#医疗)
+    - 研究现状
+    - 数据集
+    - 方法
+    - 评估方法
+    - 不足和展望
   - [文档大模型](#文档大模型)
-  - [对话助手](#对话助手)
   - [自动驾驶](#自动驾驶)
+  - 手机终端(#手机终端)
   - [Embodied AI](#embodied-ai)
   - [AI Agent](#ai-agent)
 
@@ -131,6 +137,8 @@
 | [**GAIA-1: A Generative World Model for Autonomous Driving**](https://arxiv.org/abs/2309.17080) |                                                 |                                                     |
 | [**Dolphins: Multimodal Language Model for Driving**](https://arxiv.org/abs/2312.00438) |  [Project Page](https://vlm-driver.github.io/)  |   [Code](https://github.com/vlm-driver/Dolphins)    |
 | [**Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**](https://arxiv.org/abs/2310.14414) |                                                 |                                                     |
+
+### 手机终端
 
 ### Embodied AI
 
