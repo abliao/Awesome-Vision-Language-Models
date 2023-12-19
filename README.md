@@ -122,6 +122,7 @@
 |[**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**](https://arxiv.org/pdf/2305.10415.pdf)||[Code](https://github.com/xiaoman-zhang/PMC-VQA)|
 |[**Med-Flamingo: a Multimodal Medical Few-shot Learner**](https://arxiv.org/abs/2307.15189)||[Code](https://github.com/snap-stanford/med-flamingo)|
 |[**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks**](https://arxiv.org/abs/2305.17100)||[Code](https://github.com/taokz/BiomedGPT/tree/main)|
+|[**Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation**](https://arxiv.org/abs/2304.12620)||[Code](https://github.com/WuJunde/Medical-SAM-Adapter)|
 
 ### 文档大模型
 | Paper                                             |  Project WebSite | Code |
