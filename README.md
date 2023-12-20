@@ -113,7 +113,8 @@
 ### 视频
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
-|-|-|-|
+|[**SPOT! Revisiting Video-Language Models for Event Understanding**](https://arxiv.org/pdf/2311.12919v2.pdf)|-|-|
+|[**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**](https://arxiv.org/pdf/2311.17043.pdf)||(Code)(https://github.com/dvlab-research/LLaMA-VID)|
 
 ## Application
 ### 医疗
