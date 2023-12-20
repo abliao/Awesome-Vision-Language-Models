@@ -123,7 +123,8 @@
 |[**Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations**](https://arxiv.org/pdf/2211.11427.pdf)||[Code](https://github.com/jpthu17/EMCL)|
 |[**EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding**](https://arxiv.org/pdf/2308.09126.pdf)|[Web](https://egoschema.github.io/)||
 |[**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**](https://arxiv.org/pdf/2311.17005.pdf)||[Code](https://github.com/OpenGVLab/Ask-Anything)|
-
+|[**Text-Conditioned Resampler For Long Form Video Understanding**](https://arxiv.org/pdf/2312.11897.pdf)|||
+|[**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**](https://arxiv.org/pdf/2311.08046.pdf)||[Code](https://github.com/PKU-YuanGroup/Chat-UniVi)|
 ## Application
 ### 医疗
 | Paper                                             |  Project WebSite | Code |
