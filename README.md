@@ -121,6 +121,8 @@
 |[**RETRIEVAL-BASED VIDEO LANGUAGE MODEL FOR EFFICIENT LONG VIDEO QUESTION ANSWERING**](https://arxiv.org/pdf/2312.04931.pdf)|||
 |[**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/pdf/2311.18445.pdf)||[code](https://github.com/huangb23/VTimeLLM)|
 |[**Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations**](https://arxiv.org/pdf/2211.11427.pdf)||[Code](https://github.com/jpthu17/EMCL)|
+|[**EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding**](https://arxiv.org/pdf/2308.09126.pdf)|[Web](https://egoschema.github.io/)||
+|[**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**](https://arxiv.org/pdf/2311.17005.pdf)||[Code](https://github.com/OpenGVLab/Ask-Anything)|
 
 ## Application
 ### 医疗
