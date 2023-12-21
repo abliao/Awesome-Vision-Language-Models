@@ -1,4 +1,4 @@
-# Awesome-Multimodal-Foundation-Models
+# Awesome-Multimodal-Foundation-Models And Applications
 
 ## Framework
 
