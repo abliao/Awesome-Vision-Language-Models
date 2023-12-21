@@ -1,4 +1,4 @@
-# Awesome-Vision-Language-Models
+# Awesome-Multimodal-Foundation-Models
 
 ## Framework
 
