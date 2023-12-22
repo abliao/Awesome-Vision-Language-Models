@@ -1,4 +1,4 @@
-# Awesome-Vision-Language-Models
+# Awesome-Multimodal-Foundation-Models And Applications
 
 ## Framework
 
@@ -110,8 +110,18 @@
 ### 视频
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
-|-|-|-|
-
+|[**SPOT! Revisiting Video-Language Models for Event Understanding**](https://arxiv.org/pdf/2311.12919v2.pdf)|||
+|[**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**](https://arxiv.org/pdf/2311.17043.pdf)||[Code](https://github.com/dvlab-research/LLaMA-VID)|
+|[**MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**](https://arxiv.org/pdf/2307.16449.pdf)|[Web](https://rese1f.github.io/MovieChat)|[Code](https://github.com/rese1f/MovieChat)|
+|[**MIST : Multi-modal Iterative Spatial-Temporal Transformer for Long-form Video Question Answering**](https://arxiv.org/pdf/2212.09522.pdf)||[Code](https://github.com/showlab/)|
+|[**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/pdf/2306.05424.pdf)||[Code](https://github.com/mbzuai-oryx/Video-ChatGPT)|
+|[**RETRIEVAL-BASED VIDEO LANGUAGE MODEL FOR EFFICIENT LONG VIDEO QUESTION ANSWERING**](https://arxiv.org/pdf/2312.04931.pdf)|||
+|[**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/pdf/2311.18445.pdf)||[code](https://github.com/huangb23/VTimeLLM)|
+|[**Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations**](https://arxiv.org/pdf/2211.11427.pdf)||[Code](https://github.com/jpthu17/EMCL)|
+|[**EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding**](https://arxiv.org/pdf/2308.09126.pdf)|[Web](https://egoschema.github.io/)||
+|[**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**](https://arxiv.org/pdf/2311.17005.pdf)||[Code](https://github.com/OpenGVLab/Ask-Anything)|
+|[**Text-Conditioned Resampler For Long Form Video Understanding**](https://arxiv.org/pdf/2312.11897.pdf)|||
+|[**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**](https://arxiv.org/pdf/2311.08046.pdf)||[Code](https://github.com/PKU-YuanGroup/Chat-UniVi)|
 ## Application
 ### 医疗
 | Paper                                             |  Project WebSite | Code |
