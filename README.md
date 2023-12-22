@@ -4,22 +4,19 @@
 
 - 基础知识
 
-  - 预训练方法
+  - 多模态预训练
 
-    - 对比学习
-    - 生成学习
-    - 对比和生成混合
-
-  - 多模态融合
-
-    视觉语言怎么统一。
-
-    根据应用的需求，输入和输出会拥有更多模态，怎么统一多模态输入和输出。
+    - 视觉语言
+      - 对比学习
+      - 生成学习
+      - 对比和生成混合
+    - 多模态融合
 
   - 多模态大模型（LMM）
 
     受LLM启发，多模态大模型的研究也有了飞速进展
 
+    - 结构
     - 指令微调
     - 上下文学习
     - 思维链推理
@@ -65,7 +62,7 @@
     - 挑战和展望
   - [文档大模型](#文档大模型)
   - [自动驾驶](#自动驾驶)
-  - 手机终端(#手机终端)
+  - [手机终端](#手机终端)
   - [Embodied AI](#embodied-ai)
   - [AI Agent](#ai-agent)
 
@@ -123,6 +120,7 @@
 |[**Med-Flamingo: a Multimodal Medical Few-shot Learner**](https://arxiv.org/abs/2307.15189)||[Code](https://github.com/snap-stanford/med-flamingo)|
 |[**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks**](https://arxiv.org/abs/2305.17100)||[Code](https://github.com/taokz/BiomedGPT/tree/main)|
 |[**Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation**](https://arxiv.org/abs/2304.12620)||[Code](https://github.com/WuJunde/Medical-SAM-Adapter)|
+|A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics|||
 
 ### 文档大模型
 | Paper                                             |  Project WebSite | Code |
@@ -132,12 +130,13 @@
 |[**GeoLayoutLM: Geometric Pre-training for Visual Information Extraction**](https://arxiv.org/abs/2304.10759)||[Code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/GeoLayoutLM)|
 
 ### 自动驾驶
-| Paper                                                        |                 Project WebSite                 |                        Code                         |
-| ------------------------------------------------------------ | :---------------------------------------------: | :-------------------------------------------------: |
-| [**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**](https://arxiv.org/pdf/2309.09777.pdf) | [Project Page](https://drivedreamer.github.io/) | [Code](https://github.com/JeffWang987/DriveDreamer) |
-| [**GAIA-1: A Generative World Model for Autonomous Driving**](https://arxiv.org/abs/2309.17080) |                                                 |                                                     |
-| [**Dolphins: Multimodal Language Model for Driving**](https://arxiv.org/abs/2312.00438) |  [Project Page](https://vlm-driver.github.io/)  |   [Code](https://github.com/vlm-driver/Dolphins)    |
-| [**Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**](https://arxiv.org/abs/2310.14414) |                                                 |                                                     |
+| Paper                                                        |                       Project WebSite                        |                        Code                         |
+| ------------------------------------------------------------ | :----------------------------------------------------------: | :-------------------------------------------------: |
+| [**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**](https://arxiv.org/pdf/2309.09777.pdf) |       [Project Page](https://drivedreamer.github.io/)        | [Code](https://github.com/JeffWang987/DriveDreamer) |
+| [**GAIA-1: A Generative World Model for Autonomous Driving**](https://arxiv.org/abs/2309.17080) |                                                              |                                                     |
+| [**Dolphins: Multimodal Language Model for Driving**](https://arxiv.org/abs/2312.00438) |        [Project Page](https://vlm-driver.github.io/)         |   [Code](https://github.com/vlm-driver/Dolphins)    |
+| [**Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**](https://arxiv.org/abs/2310.14414) |                                                              |                                                     |
+| [**A Survey on Multimodal Large Language Models for Autonomous Driving**](https://arxiv.org/abs/2311.12320) | [Project Page](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving) |                                                     |
 
 ### 手机终端
 
