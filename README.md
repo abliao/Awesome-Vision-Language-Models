@@ -80,6 +80,9 @@
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
 |Image-Text|:-------------:|:------------:|
+|[**Learning Transferable Visual Models From Natural Language Supervision**](https://arxiv.org/abs/2103.00020)|-|[Code](https://github.com/openai/CLIP)|
+|[**Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision**](https://arxiv.org/abs/2102.05918)|-|[Code]|
+|[**BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**](https://arxiv.org/abs/2201.12086)|-|[Code](https://github.com/salesforce/BLIP)|
 |[**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks**](https://arxiv.org/abs/1908.02265)|-|[Code](https://github.com/jiasenlu/vilbert_beta)|
 |[**LXMERT: Learning Cross-Modality Encoder Representations from Transformers**](https://arxiv.org/abs/1908.07490)|-|[Code](https://github.com/airsplay/lxmert)|
 |[**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**](https://arxiv.org/abs/1908.03557)|-|[Code](https://github.com/jackroos/VL-BERT)|
@@ -119,12 +122,29 @@
 |[**HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training**](https://arxiv.org/abs/2005.00200)|-|[Code](https://github.com/linjieli222/HERO)|
 |[**Video-Grounded Dialogues with Pretrained Generation Language Models**](https://arxiv.org/abs/2006.15319)|-|[Code]|
 |[**Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling**](https://arxiv.org/pdf/2102.06183.pdf)|-|[Code](https://github.com/jayleicn/ClipBERT)|
-
+|[**CLIP4Clip: An empirical study of CLIP for end to end video clip retrieval and captioning**](https://www.researchgate.net/publication/350992434_CLIP4Clip_An_Empirical_Study_of_CLIP_for_End_to_End_Video_Clip_Retrieval)|-|[Code](https://github.com/ArrowLuo/CLIP4Clip)|
 
 ### 多模态融合
 
 
 ### 多模态大模型
+|[**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**](https://arxiv.org/abs/2304.10592)|[Project Page](https://minigpt-4.github.io/)|[Code](https://github.com/Vision-CAIR/MiniGPT-4)|
+|[**Visual Instruction Tuning**](https://arxiv.org/abs/2304.08485)|-|[Code]()|
+|[**CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks**](https://arxiv.org/pdf/2304.05653.pdf)|-|[Code](https://github.com/xmed-lab/CLIP_Surgery)|
+|[**MiniGPT-v2: Large Language Model As a Unified Interface for Vision-Language Multi-task Learning**](https://arxiv.org/pdf/2310.09478.pdf)|-|[Code](https://github.com/Vision-CAIR/MiniGPT-4)|
+|[**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://arxiv.org/abs/2306.15195)|-|[Code](https://github.com/shikras/shikra)|
+|[**BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**](https://arxiv.org/pdf/2301.12597.pdf)|-|[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)|
+|[**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**](https://arxiv.org/pdf/2305.11175.pdf)|-|[Code]([https://github.com/salesforce/LAVIS/tree/main/projects/blip2](https://github.com/OpenGVLab/VisionLLM))|
+|[**Kosmos-2: Grounding Multimodal Large Language Models to the World**](https://arxiv.org/pdf/2306.14824.pdf)|-|[Code](https://github.com/microsoft/unilm/tree/master/kosmos-2)|
+|[**Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond**](https://arxiv.org/pdf/2308.12966.pdf)|-|[Code](https://github.com/QwenLM/Qwen-VL)|
+|[**mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**](https://arxiv.org/pdf/2304.14178.pdf)|-|[Code](https://github.com/X-PLUG/mPLUG-Owl)|
+|[**mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**](https://arxiv.org/pdf/2311.04257.pdf)|-|[Code](https://www.zhqiang.org/mplug-owl2/)|
+|[**InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**](https://arxiv.org/pdf/2305.06500.pdf)|-|[Code](https://github.com/salesforce/LAVIS/blob/main/projects/instructblip)|
+|[**VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning**](https://arxiv.org/abs/2102.10407)|-|[Code](https://github.com/Vision-CAIR/VisualGPT)|
+
+
+
+
 
 ## Tasks
 
