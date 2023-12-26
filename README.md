@@ -103,7 +103,19 @@
 |[**Florence: A New Foundation Model for Computer Vision**](https://arxiv.org/pdf/2111.11432.pdf)|-|[Code]|
 
 |Video-Text|:-------------:|:------------:|
+
 |Audio-Image|:-------------:|:------------:|
+|[**VideoBERT: A Joint Model for Video and Language Representation Learning**](https://arxiv.org/abs/1904.01766)|-|[Code](https://github.com/ammesatyajit/VideoBERT)|
+|[**Learning Video Representations Using Contrastive Bidirectional Transformers**](https://arxiv.org/abs/1906.05743)|-|[Code]|
+|[**M-BERT: Injecting Multimodal Information in the BERT Structure**](https://arxiv.org/abs/1908.05787)|-|[Code]|
+|[**BERT for Large-scale Video Segment Classification with Test-time Augmentation**](https://arxiv.org/abs/1912.01127)|-|[Code](https://github.com/hughshaoqz/3rd-Youtube8M-TM)|
+|[**UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation**](https://arxiv.org/abs/2002.06353)|-|[Code](https://github.com/microsoft/UniVL)|
+|[**ActBERT: Learning Global-Local Video-Text Representations**](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.html)|-|[Code](https://github.com/PaddlePaddle/PaddleVideo/blob/develop/docs/en/model_zoo/multimodal/actbert.md)|
+|[**HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training**](https://arxiv.org/abs/2005.00200)|-|[Code](https://github.com/linjieli222/HERO)|
+|[**Video-Grounded Dialogues with Pretrained Generation Language Models**](https://arxiv.org/abs/2006.15319)|-|[Code]|
+|[**Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling**](https://arxiv.org/pdf/2102.06183.pdf)|-|[Code](https://github.com/jayleicn/ClipBERT)|
+
+
 ### 多模态融合
 
 
