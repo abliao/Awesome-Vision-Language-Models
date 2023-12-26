@@ -85,11 +85,14 @@
 |[**BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**](https://arxiv.org/abs/2201.12086)|-|[Code](https://github.com/salesforce/BLIP)|
 |[**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks**](https://arxiv.org/abs/1908.02265)|-|[Code](https://github.com/jiasenlu/vilbert_beta)|
 |[**LXMERT: Learning Cross-Modality Encoder Representations from Transformers**](https://arxiv.org/abs/1908.07490)|-|[Code](https://github.com/airsplay/lxmert)|
+|[**Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm**](https://arxiv.org/pdf/2110.05208.pdf)|-|[Code](https://github.com/Sense-GVT/DeCLIP)|
+|[**FILIP: Fine-grained Interactive Language-Image Pre-Training**](https://arxiv.org/pdf/2111.07783.pdf)|-|[Code]|
 |[**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**](https://arxiv.org/abs/1908.03557)|-|[Code](https://github.com/jackroos/VL-BERT)|
 |[**VisualBERT: A Simple and Performant Baseline for Vision and Language**](https://arxiv.org/abs/1908.07490)|-|[Code](https://github.com/uclanlp/visualbert)|
 |[**Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training**](https://arxiv.org/abs/1908.06066)|-|[Code](https://github.com/microsoft/Unicoder)|
 |[**Unified Vision-Language Pre-Training for Image Captioning and VQA**](https://arxiv.org/pdf/1909.11059.pdf)|-|[Code](https://github.com/LuoweiZhou/VLP)|
 |[**UNITER: Learning Universal Image-text Representations**](https://arxiv.org/abs/1909.11740)|-|[Code](https://github.com/ChenRocks/UNITER)|
+|[**DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**](https://arxiv.org/pdf/2112.01518.pdf)|-|[Code](https://github.com/raoyongming/DenseCLIP)|
 |[**Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks**](https://arxiv.org/abs/1912.03063)|-|[Code](https://github.com/LuoweiZhou/VLP)|
 |[**Unified Vision-Language Pre-Training for Image Captioning and VQA**](https://arxiv.org/pdf/1909.11059.pdf)|-|[Code]|
 |[**InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining**](https://arxiv.org/abs/2003.13198)|-|[Code](https://github.com/black4321/InterBERT)|
@@ -104,6 +107,10 @@
 |[**Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-Modal Pretraining**](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Product1M_Towards_Weakly_Supervised_Instance-Level_Product_Retrieval_via_Cross-Modal_Pretraining_ICCV_2021_paper.pdf)|-|[Code](https://github.com/zhanxlin/Product1M)|
 |[**Align before Fuse: Vision and Language Representation Learning with Momentum Distillation**](https://arxiv.org/abs/2107.07651)|-|[Code](https://github.com/salesforce/ALBEF)|
 |[**Florence: A New Foundation Model for Computer Vision**](https://arxiv.org/pdf/2111.11432.pdf)|-|[Code]|
+|[**CoCa: Contrastive Captioners are Image-Text Foundation Models**](https://arxiv.org/pdf/2205.01917.pdf)|-|[Code](https://github.com/lucidrains/CoCa-pytorch)|
+
+
+
 
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
