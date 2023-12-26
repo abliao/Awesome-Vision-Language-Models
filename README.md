@@ -102,9 +102,14 @@
 |[**Align before Fuse: Vision and Language Representation Learning with Momentum Distillation**](https://arxiv.org/abs/2107.07651)|-|[Code](https://github.com/salesforce/ALBEF)|
 |[**Florence: A New Foundation Model for Computer Vision**](https://arxiv.org/pdf/2111.11432.pdf)|-|[Code]|
 
-|Video-Text|:-------------:|:------------:|
+| Paper                                             |  Project WebSite | Code |
+|---------------------------------------------------|:-------------:|:------------:|
+|audio-Text|:-------------:|:------------:|
 
-|Audio-Image|:-------------:|:------------:|
+
+| Paper                                             |  Project WebSite | Code |
+|---------------------------------------------------|:-------------:|:------------:|
+|Video-Text|:-------------:|:------------:|
 |[**VideoBERT: A Joint Model for Video and Language Representation Learning**](https://arxiv.org/abs/1904.01766)|-|[Code](https://github.com/ammesatyajit/VideoBERT)|
 |[**Learning Video Representations Using Contrastive Bidirectional Transformers**](https://arxiv.org/abs/1906.05743)|-|[Code]|
 |[**M-BERT: Injecting Multimodal Information in the BERT Structure**](https://arxiv.org/abs/1908.05787)|-|[Code]|
