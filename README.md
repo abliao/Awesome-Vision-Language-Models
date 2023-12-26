@@ -125,6 +125,19 @@
 |[**CLIP4Clip: An empirical study of CLIP for end to end video clip retrieval and captioning**](https://www.researchgate.net/publication/350992434_CLIP4Clip_An_Empirical_Study_of_CLIP_for_End_to_End_Video_Clip_Retrieval)|-|[Code](https://github.com/ArrowLuo/CLIP4Clip)|
 
 ### 多模态融合
+| Paper                                             |  Project WebSite | Code |
+|---------------------------------------------------|:-------------:|:------------:|
+|[**Self-Supervised MultiModal Versatile Networks**](https://arxiv.org/pdf/2006.16228.pdf)|-|[Code](https://github.com/deepmind/deepmind-research/tree/master/mmv)|
+|[**VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text**](https://arxiv.org/pdf/2104.11178.pdf)|-|[Code](https://github.com/google-research/google-research/tree/master/vatt)|
+|[**Multimodal Clustering Networks for Self-supervised Learning from Unlabeled Videoss**](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Multimodal_Clustering_Networks_for_Self-Supervised_Learning_From_Unlabeled_Videos_ICCV_2021_paper.pdf)|-|[Code](https://github.com/brian7685/Multimodal-Clustering-Network)|
+|[**OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation**](https://arxiv.org/pdf/2107.00249.pdf)|-|[Code]|
+|[**M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining**](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_M5Product_Self-Harmonized_Contrastive_Learning_for_E-Commercial_Multi-Modal_Pretraining_CVPR_2022_paper.pdf)|-|[Code](https://xiaodongsuper.github.io/M5Product_dataset/)|
+|[**OMNIVORE: A Single Model for Many Visual Modalities**](https://openaccess.thecvf.com/content/CVPR2022/papers/Girdhar_Omnivore_A_Single_Model_for_Many_Visual_Modalities_CVPR_2022_paper.pdf)|-|[Code](https://facebookresearch.github.io/omnivore)|
+|[**MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound**](https://openaccess.thecvf.com/content/CVPR2022/papers/Zellers_MERLOT_Reserve_Neural_Script_Knowledge_Through_Vision_and_Language_and_CVPR_2022_paper.pdf)|-|[Code](https://rowanzellers.com/merlotreserve)|
+|[**i-Code: An Integrative and Composable Multimodal Learning Framework**](https://arxiv.org/abs/2205.01818)|-|[Code](https://github.com/microsoft/i-Code)|
+|[**One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**](https://arxiv.org/pdf/2205.06126.pdf)|-|[Code](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)|
+|[**ImageBind: One Embedding Space To Bind Them All**](https://arxiv.org/pdf/2305.05665.pdf)|-|[Code](https://facebookresearch.github.io/ImageBind)|
+
 
 
 ### 多模态大模型
