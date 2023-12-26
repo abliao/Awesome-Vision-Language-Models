@@ -79,9 +79,33 @@
 
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
-|-|-|-|
+|Image-Text|:-------------:|:------------:|
+|[**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks**](https://arxiv.org/abs/1908.02265)|-|[Code](https://github.com/jiasenlu/vilbert_beta)|
+|[**LXMERT: Learning Cross-Modality Encoder Representations from Transformers**](https://arxiv.org/abs/1908.07490)|-|[Code](https://github.com/airsplay/lxmert)|
+|[**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**](https://arxiv.org/abs/1908.03557)|-|[Code](https://github.com/jackroos/VL-BERT)|
+|[**VisualBERT: A Simple and Performant Baseline for Vision and Language**](https://arxiv.org/abs/1908.07490)|-|[Code](https://github.com/uclanlp/visualbert)|
+|[**Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training**](https://arxiv.org/abs/1908.06066)|-|[Code](https://github.com/microsoft/Unicoder)|
+|[**Unified Vision-Language Pre-Training for Image Captioning and VQA**](https://arxiv.org/pdf/1909.11059.pdf)|-|[Code](https://github.com/LuoweiZhou/VLP)|
+|[**UNITER: Learning Universal Image-text Representations**](https://arxiv.org/abs/1909.11740)|-|[Code](https://github.com/ChenRocks/UNITER)|
+|[**Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks**](https://arxiv.org/abs/1912.03063)|-|[Code](https://github.com/LuoweiZhou/VLP)|
+|[**Unified Vision-Language Pre-Training for Image Captioning and VQA**](https://arxiv.org/pdf/1909.11059.pdf)|-|[Code]|
+|[**InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining**](https://arxiv.org/abs/2003.13198)|-|[Code](https://github.com/black4321/InterBERT)|
+|[**Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**](https://arxiv.org/pdf/2004.06165.pdf)|-|[Code](https://github.com/microsoft/Oscar)|
+|[**Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers**](https://arxiv.org/abs/2004.00849)|-|[Code](https://github.com/microsoft/xpretrain)|
+|[**ERNIE-VIL: KNOWLEDGE ENHANCED VISION-LANGUAGE REPRESENTATIONS THROUGH SCENE GRAPH**](https://arxiv.org/abs/2006.16934)|-|[Code]|
+|[**DeVLBert: Learning Deconfounded Visio-Linguistic Representations**](https://arxiv.org/abs/2008.06884)|-|[Code](https://github.com/shengyuzhang/DeVLBert)|
+|[**ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision**](https://arxiv.org/pdf/2102.03334.pdf)|-|[Code](https://github.com/dandelin/ViLT)|
+|[**UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning**](https://arxiv.org/abs/2012.15409)|-|[Code](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO)|
+|[**VinVL: Revisiting Visual Representations in Vision-Language Models**](https://arxiv.org/abs/2101.00529)|-|[Code](https://github.com/pzzhang/VinVL)|
+|[**Kaleido-BERT: Vision-Language Pre-training on Fashion Domain**](https://arxiv.org/abs/2103.16110)|-|[Code](https://github.com/mczhuge/Kaleido-BERT)|
+|[**Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-Modal Pretraining**](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Product1M_Towards_Weakly_Supervised_Instance-Level_Product_Retrieval_via_Cross-Modal_Pretraining_ICCV_2021_paper.pdf)|-|[Code](https://github.com/zhanxlin/Product1M)|
+|[**Align before Fuse: Vision and Language Representation Learning with Momentum Distillation**](https://arxiv.org/abs/2107.07651)|-|[Code](https://github.com/salesforce/ALBEF)|
+|[**Florence: A New Foundation Model for Computer Vision**](https://arxiv.org/pdf/2111.11432.pdf)|-|[Code]|
 
+|Video-Text|:-------------:|:------------:|
+|Audio-Image|:-------------:|:------------:|
 ### 多模态融合
+
 
 ### 多模态大模型
 
