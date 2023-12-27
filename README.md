@@ -80,21 +80,20 @@
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
 |Image-Text|:-------------:|:------------:|
-|[**Learning Transferable Visual Models From Natural Language Supervision**](https://arxiv.org/abs/2103.00020)|-|[Code](https://github.com/openai/CLIP)|
-|[**Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision**](https://arxiv.org/abs/2102.05918)|-|[Code]|
-|[**BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**](https://arxiv.org/abs/2201.12086)|-|[Code](https://github.com/salesforce/BLIP)|
 |[**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks**](https://arxiv.org/abs/1908.02265)|-|[Code](https://github.com/jiasenlu/vilbert_beta)|
 |[**LXMERT: Learning Cross-Modality Encoder Representations from Transformers**](https://arxiv.org/abs/1908.07490)|-|[Code](https://github.com/airsplay/lxmert)|
-|[**Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm**](https://arxiv.org/pdf/2110.05208.pdf)|-|[Code](https://github.com/Sense-GVT/DeCLIP)|
-|[**FILIP: Fine-grained Interactive Language-Image Pre-Training**](https://arxiv.org/pdf/2111.07783.pdf)|-|[Code]|
 |[**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**](https://arxiv.org/abs/1908.03557)|-|[Code](https://github.com/jackroos/VL-BERT)|
 |[**VisualBERT: A Simple and Performant Baseline for Vision and Language**](https://arxiv.org/abs/1908.07490)|-|[Code](https://github.com/uclanlp/visualbert)|
 |[**Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training**](https://arxiv.org/abs/1908.06066)|-|[Code](https://github.com/microsoft/Unicoder)|
 |[**Unified Vision-Language Pre-Training for Image Captioning and VQA**](https://arxiv.org/pdf/1909.11059.pdf)|-|[Code](https://github.com/LuoweiZhou/VLP)|
 |[**UNITER: Learning Universal Image-text Representations**](https://arxiv.org/abs/1909.11740)|-|[Code](https://github.com/ChenRocks/UNITER)|
-|[**DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**](https://arxiv.org/pdf/2112.01518.pdf)|-|[Code](https://github.com/raoyongming/DenseCLIP)|
 |[**Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks**](https://arxiv.org/abs/1912.03063)|-|[Code](https://github.com/LuoweiZhou/VLP)|
 |[**Unified Vision-Language Pre-Training for Image Captioning and VQA**](https://arxiv.org/pdf/1909.11059.pdf)|-|[Code]|
+|[**Learning Transferable Visual Models From Natural Language Supervision**](https://arxiv.org/abs/2103.00020)|-|[Code](https://github.com/openai/CLIP)|
+|[**Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision**](https://arxiv.org/abs/2102.05918)|-|[Code]|
+|[**Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm**](https://arxiv.org/pdf/2110.05208.pdf)|-|[Code](https://github.com/Sense-GVT/DeCLIP)|
+|[**FILIP: Fine-grained Interactive Language-Image Pre-Training**](https://arxiv.org/pdf/2111.07783.pdf)|-|[Code]|
+|[**DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**](https://arxiv.org/pdf/2112.01518.pdf)|-|[Code](https://github.com/raoyongming/DenseCLIP)|
 |[**InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining**](https://arxiv.org/abs/2003.13198)|-|[Code](https://github.com/black4321/InterBERT)|
 |[**Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**](https://arxiv.org/pdf/2004.06165.pdf)|-|[Code](https://github.com/microsoft/Oscar)|
 |[**Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers**](https://arxiv.org/abs/2004.00849)|-|[Code](https://github.com/microsoft/xpretrain)|
@@ -106,8 +105,19 @@
 |[**Kaleido-BERT: Vision-Language Pre-training on Fashion Domain**](https://arxiv.org/abs/2103.16110)|-|[Code](https://github.com/mczhuge/Kaleido-BERT)|
 |[**Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-Modal Pretraining**](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Product1M_Towards_Weakly_Supervised_Instance-Level_Product_Retrieval_via_Cross-Modal_Pretraining_ICCV_2021_paper.pdf)|-|[Code](https://github.com/zhanxlin/Product1M)|
 |[**Align before Fuse: Vision and Language Representation Learning with Momentum Distillation**](https://arxiv.org/abs/2107.07651)|-|[Code](https://github.com/salesforce/ALBEF)|
+|[**BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**](https://arxiv.org/abs/2201.12086)|-|[Code](https://github.com/salesforce/BLIP)|
 |[**Florence: A New Foundation Model for Computer Vision**](https://arxiv.org/pdf/2111.11432.pdf)|-|[Code]|
 |[**CoCa: Contrastive Captioners are Image-Text Foundation Models**](https://arxiv.org/pdf/2205.01917.pdf)|-|[Code](https://github.com/lucidrains/CoCa-pytorch)|
+|[**Nlip: Noise-robust language-image pre-training**](https://ojs.aaai.org/index.php/AAAI/article/view/25172/24944)|-|[Code]|
+|[**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**](http://openaccess.thecvf.com/content/ICCV2023/papers/Deng_GrowCLIP_Data-Aware_Automatic_Model_Growing_for_Large-scale_Contrastive_Language-Image_Pre-Training_ICCV_2023_paper.pdf)|-|[Code]|
+|[**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_DiffDis_Empowering_Generative_Diffusion_Model_with_Cross-Modal_Discrimination_Capability_ICCV_2023_paper.pdf)|-|[Code]|
+|[**Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pretraining**](https://arxiv.org/abs/2312.12661 )|-|[Code]|
+|[**Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders**](https://arxiv.org/abs/2312.12659)|-|[Code]|
+|[**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**](https://arxiv.org/abs/2312.14149)|-|[Code](https://qinying-liu.github.io/Tag-Align/)|
+|[**PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining**](https://arxiv.org/pdf/2204.14095.pdf)|[Project Page]()|[Code](https://github.com/Yuting-Gao/PyramidCLIP)|
+|[**CLIM: Contrastive Language-Image Mosaic for Region Representation**](https://arxiv.org/pdf/2312.11376.pdf)|[Project Page]()|[Code](https://github.com/wusize/CLIM)|
+|[**RegionCLIP: Region-based Language-Image Pretraining**]()|[Project Page]()|[Code](https://github.com/microsoft/RegionCLIP)|
+|[****]()|[Project Page]()|[Code]()|
 
 
 
@@ -130,6 +140,7 @@
 |[**Video-Grounded Dialogues with Pretrained Generation Language Models**](https://arxiv.org/abs/2006.15319)|-|[Code]|
 |[**Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling**](https://arxiv.org/pdf/2102.06183.pdf)|-|[Code](https://github.com/jayleicn/ClipBERT)|
 |[**CLIP4Clip: An empirical study of CLIP for end to end video clip retrieval and captioning**](https://www.researchgate.net/publication/350992434_CLIP4Clip_An_Empirical_Study_of_CLIP_for_End_to_End_Video_Clip_Retrieval)|-|[Code](https://github.com/ArrowLuo/CLIP4Clip)|
+|[****]()|[Project Page]()|[Code]()|
 
 ### 多模态融合
 | Paper                                             |  Project WebSite | Code |
@@ -144,6 +155,10 @@
 |[**i-Code: An Integrative and Composable Multimodal Learning Framework**](https://arxiv.org/abs/2205.01818)|-|[Code](https://github.com/microsoft/i-Code)|
 |[**One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**](https://arxiv.org/pdf/2205.06126.pdf)|-|[Code](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)|
 |[**ImageBind: One Embedding Space To Bind Them All**](https://arxiv.org/pdf/2305.05665.pdf)|-|[Code](https://facebookresearch.github.io/ImageBind)|
+|[**LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**](https://arxiv.org/pdf/2310.01852.pdf)|-|[Code](https://github.com/PKU-YuanGroup/LanguageBind)|
+|[**Meta-Transformer: A Unified Framework for Multimodal Learning**](https://arxiv.org/pdf/2310.01852.pdf)|[Project Page](https://kxgong.github.io/meta_transformer/)|[Code](https://github.com/invictus717/MetaTransformer)|
+|[**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/pdf/2312.03700.pdf)|-|[Code](https://github.com/csuhan/OneLLM)|
+|[****]()|[Project Page]()|[Code]()|
 
 
 
@@ -157,12 +172,20 @@
 |[**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://arxiv.org/abs/2306.15195)|-|[Code](https://github.com/shikras/shikra)|
 |[**BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**](https://arxiv.org/pdf/2301.12597.pdf)|-|[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)|
 |[**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**](https://arxiv.org/pdf/2305.11175.pdf)|-|[Code]([https://github.com/salesforce/LAVIS/tree/main/projects/blip2](https://github.com/OpenGVLab/VisionLLM))|
+|[**Language Is Not All You Need: Aligning Perception with Language Models**](https://arxiv.org/pdf/2302.14045.pdf)|-|[Code](https://github.com/microsoft/unilm/tree/master/kosmos-1)|
 |[**Kosmos-2: Grounding Multimodal Large Language Models to the World**](https://arxiv.org/pdf/2306.14824.pdf)|-|[Code](https://github.com/microsoft/unilm/tree/master/kosmos-2)|
 |[**Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond**](https://arxiv.org/pdf/2308.12966.pdf)|-|[Code](https://github.com/QwenLM/Qwen-VL)|
 |[**mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**](https://arxiv.org/pdf/2304.14178.pdf)|-|[Code](https://github.com/X-PLUG/mPLUG-Owl)|
 |[**mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**](https://arxiv.org/pdf/2311.04257.pdf)|-|[Code](https://www.zhqiang.org/mplug-owl2/)|
 |[**InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**](https://arxiv.org/pdf/2305.06500.pdf)|-|[Code](https://github.com/salesforce/LAVIS/blob/main/projects/instructblip)|
-|[**VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning**](https://arxiv.org/abs/2102.10407)|-|[Code](https://github.com/Vision-CAIR/VisualGPT)|
+|[**VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning**](https://arxiv.org/pdf/2102.10407.pdf)|-|[Code](https://github.com/Vision-CAIR/VisualGPT)|
+|[**Monkey : Image Resolution and Text Label Are Important Things for Large Multi-modal Models**](https://arxiv.org/pdf/2311.06607.pdf)|-|[Code](https://github.com/Yuliang-Liu/Monkey)|
+|[**VCoder: Versatile Vision Encoders for Multimodal Large Language Models**](https://arxiv.org/pdf/2312.14233.pdf)|-|[Code](https://github.com/SHI-Labs/VCoder)|
+|[**InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks**](https://arxiv.org/pdf/2312.14233.pdf)|-|[Code](https://github.com/OpenGVLab/InternVL)|
+|[**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**](https://arxiv.org/pdf/2311.18775.pdf)|[Project Page](https://codi-2.github.io/)|[Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)|
+|[**Ferret: Refer and Ground Anything Anywhere at Any Granularity**](https://arxiv.org/pdf/2310.07704.pdf)|[Project Page]()|[Code](https://github.com/apple/ml-ferret)|
+|[**NExT-GPT: Any-to-Any Multimodal LLM**](https://arxiv.org/pdf/2309.05519.pdf)|[Project Page](https://next-gpt.github.io/)|[Code](https://github.com/NExT-GPT/NExT-GPT)|
+|[****]()|[Project Page]()|[Code]()|
 
 
 
