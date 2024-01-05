@@ -93,6 +93,7 @@
 |[**Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision**](https://arxiv.org/abs/2102.05918)|-|[Code]|
 |[**Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm**](https://arxiv.org/pdf/2110.05208.pdf)|-|[Code](https://github.com/Sense-GVT/DeCLIP)|
 |[**FILIP: Fine-grained Interactive Language-Image Pre-Training**](https://arxiv.org/pdf/2111.07783.pdf)|-|[Code]|
+|[**MURAL: Multimodal, Multitask Retrieval Across Languages**](https://arxiv.org/pdf/2109.05125.pdf)|-|[Code]|
 |[**DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**](https://arxiv.org/pdf/2112.01518.pdf)|-|[Code](https://github.com/raoyongming/DenseCLIP)|
 |[**InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining**](https://arxiv.org/abs/2003.13198)|-|[Code](https://github.com/black4321/InterBERT)|
 |[**Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**](https://arxiv.org/pdf/2004.06165.pdf)|-|[Code](https://github.com/microsoft/Oscar)|
@@ -100,26 +101,32 @@
 |[**ERNIE-VIL: KNOWLEDGE ENHANCED VISION-LANGUAGE REPRESENTATIONS THROUGH SCENE GRAPH**](https://arxiv.org/abs/2006.16934)|-|[Code]|
 |[**DeVLBert: Learning Deconfounded Visio-Linguistic Representations**](https://arxiv.org/abs/2008.06884)|-|[Code](https://github.com/shengyuzhang/DeVLBert)|
 |[**ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision**](https://arxiv.org/pdf/2102.03334.pdf)|-|[Code](https://github.com/dandelin/ViLT)|
+|[**Unifying Vision-and-Language Tasks via Text Generation**](https://arxiv.org/pdf/2102.02779.pdf)|-|[Code](https://github.com/j-min/VL-T5)|
 |[**UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning**](https://arxiv.org/abs/2012.15409)|-|[Code](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO)|
 |[**VinVL: Revisiting Visual Representations in Vision-Language Models**](https://arxiv.org/abs/2101.00529)|-|[Code](https://github.com/pzzhang/VinVL)|
 |[**Kaleido-BERT: Vision-Language Pre-training on Fashion Domain**](https://arxiv.org/abs/2103.16110)|-|[Code](https://github.com/mczhuge/Kaleido-BERT)|
-|[**Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-Modal Pretraining**](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Product1M_Towards_Weakly_Supervised_Instance-Level_Product_Retrieval_via_Cross-Modal_Pretraining_ICCV_2021_paper.pdf)|-|[Code](https://github.com/zhanxlin/Product1M)|
+|[**Product1M   : Towards Weakly Supervised Instance-Level Product Retrieval via Cross-Modal Pretraining**](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Product1M_Towards_Weakly_Supervised_Instance-Level_Product_Retrieval_via_Cross-Modal_Pretraining_ICCV_2021_paper.pdf)|-|[Code](https://github.com/zhanxlin/Product1M)|
 |[**Align before Fuse: Vision and Language Representation Learning with Momentum Distillation**](https://arxiv.org/abs/2107.07651)|-|[Code](https://github.com/salesforce/ALBEF)|
 |[**BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**](https://arxiv.org/abs/2201.12086)|-|[Code](https://github.com/salesforce/BLIP)|
+|[**Combined scaling for zero-shot transfer learning**](https://arxiv.org/pdf/2111.10050.pdf)|-|[Code]|
+|[**LiT: Zero-Shot Transfer with Locked-image text Tuning**](https://arxiv.org/pdf/2111.07991.pdf)|-|[Code]|
 |[**Florence: A New Foundation Model for Computer Vision**](https://arxiv.org/pdf/2111.11432.pdf)|-|[Code]|
 |[**CoCa: Contrastive Captioners are Image-Text Foundation Models**](https://arxiv.org/pdf/2205.01917.pdf)|-|[Code](https://github.com/lucidrains/CoCa-pytorch)|
 |[**Nlip: Noise-robust language-image pre-training**](https://ojs.aaai.org/index.php/AAAI/article/view/25172/24944)|-|[Code]|
+|[**Enabling multimodal generation on clip via vision-language knowledge distillation**](https://arxiv.org/pdf/2203.06386.pdf)|[Project Page]|[Code]|
 |[**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**](http://openaccess.thecvf.com/content/ICCV2023/papers/Deng_GrowCLIP_Data-Aware_Automatic_Model_Growing_for_Large-scale_Contrastive_Language-Image_Pre-Training_ICCV_2023_paper.pdf)|-|[Code]|
+|[**Scaling Up Vision-Language Pre-training for Image Captioning**](https://arxiv.org/pdf/2111.12233.pdf)|-|[Code]|
 |[**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_DiffDis_Empowering_Generative_Diffusion_Model_with_Cross-Modal_Discrimination_Capability_ICCV_2023_paper.pdf)|-|[Code]|
 |[**Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pretraining**](https://arxiv.org/abs/2312.12661 )|-|[Code]|
 |[**Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders**](https://arxiv.org/abs/2312.12659)|-|[Code]|
 |[**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**](https://arxiv.org/abs/2312.14149)|-|[Code](https://qinying-liu.github.io/Tag-Align/)|
 |[**PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining**](https://arxiv.org/pdf/2204.14095.pdf)|[Project Page]()|[Code](https://github.com/Yuting-Gao/PyramidCLIP)|
 |[**CLIM: Contrastive Language-Image Mosaic for Region Representation**](https://arxiv.org/pdf/2312.11376.pdf)|[Project Page]()|[Code](https://github.com/wusize/CLIM)|
-|[**RegionCLIP: Region-based Language-Image Pretraining**]()|[Project Page]()|[Code](https://github.com/microsoft/RegionCLIP)|
+|[**RegionCLIP: Region-based Language-Image Pretraining**](https://arxiv.org/pdf/2112.09106.pdf)|[Project Page]()|[Code](https://github.com/microsoft/RegionCLIP)|
+|[**Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**](https://arxiv.org/pdf/2312.03818.pdf)|[Project Page](https://aleafy.github.io/alpha-clip/)|[Code](https://github.com/SunzeY/AlphaCLIP)|
+|[**Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**](https://arxiv.org/pdf/2312.06109.pdf)|[Project Page]()|[Code](https://github.com/Ucas-HaoranWei/Vary/blob/main)|
+|[**OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**](https://arxiv.org/pdf/2202.03052.pdf)|-|[Code](https://github.com/OFA-Sys/OFA)|
 |[****]()|[Project Page]()|[Code]()|
-
-
 
 
 | Paper                                             |  Project WebSite | Code |
@@ -139,7 +146,10 @@
 |[**HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training**](https://arxiv.org/abs/2005.00200)|-|[Code](https://github.com/linjieli222/HERO)|
 |[**Video-Grounded Dialogues with Pretrained Generation Language Models**](https://arxiv.org/abs/2006.15319)|-|[Code]|
 |[**Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling**](https://arxiv.org/pdf/2102.06183.pdf)|-|[Code](https://github.com/jayleicn/ClipBERT)|
+|[**Frozen in time: A joint video and image encoder for end-to-end retrieval**](https://arxiv.org/pdf/2104.00650.pdf)|[Project Page](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)|[Code](https://github.com/m-bain/frozen-in-time)|
 |[**CLIP4Clip: An empirical study of CLIP for end to end video clip retrieval and captioning**](https://www.researchgate.net/publication/350992434_CLIP4Clip_An_Empirical_Study_of_CLIP_for_End_to_End_Video_Clip_Retrieval)|-|[Code](https://github.com/ArrowLuo/CLIP4Clip)|
+|[**End-to-End Learning of Visual Representations from Uncurated Instructional Videos**](https://arxiv.org/pdf/1912.06430.pdf)|[Project Page](https://www.di.ens.fr/willow/research/mil-nce/)|[Code](https://github.com/antoine77340/MIL-NCE_HowTo100M)|
+|[**UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation**](https://arxiv.org/pdf/2002.06353.pdf)|-|[Code](https://github.com/microsoft/UniVL)|
 |[****]()|[Project Page]()|[Code]()|
 
 ### 多模态融合
@@ -165,6 +175,10 @@
 ### 多模态大模型
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
+
+|[**Flamingo: a Visual Language Model for Few-Shot Learning**](https://arxiv.org/pdf/2204.14198.pdf)|-|[Code]|
+
+|[**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**](https://arxiv.org/pdf/2208.10442.pdf)|-|[Code](https://github.com/microsoft/unilm/tree/master/beit3)|
 |[**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**](https://arxiv.org/abs/2304.10592)|[Project Page](https://minigpt-4.github.io/)|[Code](https://github.com/Vision-CAIR/MiniGPT-4)|
 |[**Visual Instruction Tuning**](https://arxiv.org/abs/2304.08485)|-|[Code]()|
 |[**CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks**](https://arxiv.org/pdf/2304.05653.pdf)|-|[Code](https://github.com/xmed-lab/CLIP_Surgery)|
@@ -185,9 +199,15 @@
 |[**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**](https://arxiv.org/pdf/2311.18775.pdf)|[Project Page](https://codi-2.github.io/)|[Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)|
 |[**Ferret: Refer and Ground Anything Anywhere at Any Granularity**](https://arxiv.org/pdf/2310.07704.pdf)|[Project Page]()|[Code](https://github.com/apple/ml-ferret)|
 |[**NExT-GPT: Any-to-Any Multimodal LLM**](https://arxiv.org/pdf/2309.05519.pdf)|[Project Page](https://next-gpt.github.io/)|[Code](https://github.com/NExT-GPT/NExT-GPT)|
+
+
 |[****]()|[Project Page]()|[Code]()|
 
 
+### 未归类
+| Paper                                             |  Project WebSite | Code |
+|---------------------------------------------------|:-------------:|:------------:|
+|[**GroupViT: Semantic Segmentation Emerges from Text Supervision**](https://arxiv.org/abs/2202.11094)|[Project Page](https://jerryxu.net/GroupViT/)|[Code](https://github.com/NVlabs/GroupViT)|
 
 
 
