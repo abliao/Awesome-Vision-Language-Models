@@ -126,6 +126,7 @@
 |[**Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**](https://arxiv.org/pdf/2312.03818.pdf)|[Project Page](https://aleafy.github.io/alpha-clip/)|[Code](https://github.com/SunzeY/AlphaCLIP)|
 |[**Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**](https://arxiv.org/pdf/2312.06109.pdf)|[Project Page]()|[Code](https://github.com/Ucas-HaoranWei/Vary/blob/main)|
 |[**OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**](https://arxiv.org/pdf/2202.03052.pdf)|-|[Code](https://github.com/OFA-Sys/OFA)|
+|[**SimVLM: Simple Visual Language Model Pretraining with Weak Supervision**](https://arxiv.org/pdf/2108.10904.pdf)|-|[Code]|
 |[****]()|[Project Page]()|[Code]()|
 
 
