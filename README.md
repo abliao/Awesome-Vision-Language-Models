@@ -176,9 +176,7 @@
 ### 多模态大模型
 | Paper                                             |  Project WebSite | Code |
 |---------------------------------------------------|:-------------:|:------------:|
-
 |[**Flamingo: a Visual Language Model for Few-Shot Learning**](https://arxiv.org/pdf/2204.14198.pdf)|-|[Code]|
-
 |[**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**](https://arxiv.org/pdf/2208.10442.pdf)|-|[Code](https://github.com/microsoft/unilm/tree/master/beit3)|
 |[**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**](https://arxiv.org/abs/2304.10592)|[Project Page](https://minigpt-4.github.io/)|[Code](https://github.com/Vision-CAIR/MiniGPT-4)|
 |[**Visual Instruction Tuning**](https://arxiv.org/abs/2304.08485)|-|[Code]()|
